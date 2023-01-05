@@ -14,7 +14,7 @@ Mouse right click:
 
 ### Scroll events
 Mouse scroll:
-    Scrolling the mouse will zoom in and out of the image.
+    Scrolling the mouse will zoom in and out.
 
 ### Key events
 ! (shift+1): 
