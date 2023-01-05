@@ -1,7 +1,7 @@
 # contrail_labeling_tool
 ## Description
 A point-and-click tool to label contrails on satellite images using click, key and scroll events.
-The repository includes 5 example granules (data from 5 satellite images).
+The repository includes 5 example granules (data from 5 satellite images). The mask begins labeled by a dated detection method instead of starting from scratch.
 
 ### Click events
 Mouse left click:
